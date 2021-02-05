@@ -1,1 +1,1 @@
-I want ot get started with git.
+I want to get started with git.
